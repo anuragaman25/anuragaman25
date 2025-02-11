@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/anurag_aman25" target="blank"><img src="https://img.shields.io/twitter/follow/anurag_aman25?logo=twitter&style=for-the-badge" alt="anurag_aman25" /></a> </p>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Python**
 
 - 💬 Ask me about **HTML, CSS, JS**
 
