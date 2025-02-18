@@ -4,7 +4,7 @@
 </div>
 
 <div align="center"><h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> About Me </h1></div>
-<div align="center"><h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked%20with%20Key.png" alt="Locked with Key" width="25" height="25" /> Cybersecurity Geek | Web Developer | CSE Undergrad</h3></div>
+<div align="center"><h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked%20with%20Key.png" alt="Locked with Key" width="25" height="25" /> Cybersecurity Geek | Machine Learning | Web Developer | CSE Undergrad</h3></div>
 
 <div align="center"><p>I'm a Cybersecurity Geek, Web Developer, and a B.Tech 3rd-year CSE student with a strong passion for securing digital systems and developing user-friendly applications. I’m currently diving deep into Cybersecurity, learning about Network Security and Ethical Hacking, while also enhancing my Python and Java skills.</p></div>
 
@@ -70,7 +70,7 @@
 
 ###
 
-<div align="center">
+<br><div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik+Wet+Paint&size=35&pause=999&color=0062BF&background=FFC57100&center=true&vCenter=true&width=435&lines=%F0%9F%93%88GitHub+Statistics%F0%9F%93%88)](https://git.io/typing-svg)
 </div>
@@ -79,3 +79,18 @@
 
   [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=anuragaman25&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/Jurredr/github-widgetbox)
 </div>
+
+
+<div align="center">
+
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuragaman25&show_icons=true&theme=radical) &nbsp;&nbsp;&nbsp;&nbsp; [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=anuragaman25)](https://github.com/LordDashMe/github-contribution-stats/)
+</div>
+
+###
+
+
+
+
+
+  
+
