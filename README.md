@@ -64,7 +64,7 @@
 <a href="https://www.discord.com/anuragaman25" target="blank">
 <img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord1.svg /></a>
 
-<a href="https://instagram.com/#__am25an__" target="blank">
+<a href="https://instagram.com/vaidya.aman_" target="blank">
 <img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/Instagram/instagram1.svg /></a>
 </div>
 
