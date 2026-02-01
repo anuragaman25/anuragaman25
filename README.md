@@ -4,9 +4,9 @@
 </div>
 
 <div align="center"><h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> About Me </h1></div>
-<div align="center"><h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked%20with%20Key.png" alt="Locked with Key" width="25" height="25" /> Cybersecurity Geek | Machine Learning | Web Developer | CSE Undergrad</h3></div>
+<div align="center"><h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked%20with%20Key.png" alt="Locked with Key" width="25" height="25" /> Cybersecurity Geek | CSE Undergrad</h3></div>
 
-<div align="center"><p>I'm a Cybersecurity Geek, Web Developer, and a B.Tech 3rd-year CSE student with a strong passion for securing digital systems and developing user-friendly applications. I’m currently diving deep into Cybersecurity, learning about Network Security and Ethical Hacking, while also enhancing my Python and Java skills.</p></div>
+<div align="center"><p>I'm a Cybersecurity Geek and a B.Tech 4th-year CSE student with a strong passion for securing digital systems. I’m currently diving deep into Cybersecurity, learning about Network Security and Ethical Hacking, while also enhancing my Python skills.</p></div>
 
 <div align="center"><h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" /> What I'm Working On</h3></div>
 
@@ -20,8 +20,7 @@
       - 🔹 **Malware Analysis** (Types of Malware, Detection Techniques)  
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="25" height="25" /> **Python Development:** Security-based projects & automation scripts  
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" alt="Globe with Meridians" width="25" height="25" /> **Web Development:** Secure, optimized, and user-friendly applications  
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="25" height="25" /> **Disease Outbreak Prediction:** Implementing ML models in Python  </p></div>
+
 
 ###
 
@@ -35,10 +34,7 @@
   ![Python](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg)
   ![MySql](https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql1.svg) 
   ![Git](https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg) 
-  ![HTML5](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg)
-  ![CSS3](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg)
-  ![JS](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg)
-  ![BOOTSTRAP](https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap1.svg)
+  
 </div>
 
 ###
